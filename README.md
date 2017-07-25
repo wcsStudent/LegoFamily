@@ -1,1 +1,1 @@
-Assignment instructions are posted athttps://woodstockscs.github.io/instructions/LegoFamily.
+Assignment instructions are posted at https://woodstockscs.github.io/instructions/LegoFamily.
